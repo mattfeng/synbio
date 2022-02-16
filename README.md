@@ -9,3 +9,10 @@ _Synthetic biology_.
 
 ## Tools
 - [iBioSim 3: A tool for model-based genetic circuit design](https://pubs.acs.org/doi/abs/10.1021/acssynbio.8b00078)
+
+## Equipment
+- [Ambr250 Bioreactors (Fermenters)](https://www.sartorius.com/en/products/fermentation-bioreactors/ambr-multi-parallel-bioreactors/ambr-250-high-throughput)
+
+## Cell lines
+- CHO cells
+  - used to express recombinant proteins (often recombinant protein therapeutics, such as monoclonal antibodies)
