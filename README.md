@@ -16,3 +16,6 @@ _Synthetic biology_.
 ## Cell lines
 - CHO cells
   - used to express recombinant proteins (often recombinant protein therapeutics, such as monoclonal antibodies)
+- HEK293
+  - Human embryonic kidney cells
+  - Used for preparing Ad vaccines
