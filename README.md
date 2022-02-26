@@ -19,3 +19,7 @@ _Synthetic biology_.
 - HEK293
   - Human embryonic kidney cells
   - Used for preparing Ad vaccines
+
+## Model organisms
+- _Dictyostelium discoideum_
+  - extremely useful for studying cell movement and molecular-motor proteins
